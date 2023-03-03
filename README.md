@@ -10,8 +10,9 @@ My passion for data science stems from a deep desire to explore the untapped pot
 
 </p>
 
-
-- 👀 ULTIMATE rock, funk, jazz music, and CODING enthusiast.
+- 🧪 Code Alchemist
+- 📖 Machine/Deep Learning, NLP, Data Mining
+- 👀 ULTIMATE rock, funk, jazz enthusiast.
 - 📮 For repository inquiries or collaboration requests: danielzhao001231@gmail.com; For work-related inquiries or networking opportunities: wez0012@outlook.com.
 
 - 📜 Checkout my personal website <strong><a href="https://wenqian-datasi.vercel.app">here</a></strong>!
