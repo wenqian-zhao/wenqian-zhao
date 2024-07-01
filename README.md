@@ -5,7 +5,7 @@
 <h2 align="center">Hi there 👋, I'm Wenqian!</h2>
 </br>
 <p align="left">
-Hey! I'm a UCSD HDSI grad and data scientist at MiniMax in Shanghai, diving deep into LLM and AI. Passionate about unleashing data's power to make real-world impacts, I'm all about exploring, innovating, and keeping things fun in the world of LLM. Excited to see where this adventure leads!
+Hey! I'm a UCSD HDSI alumni and data scientist at MiniMax in Shanghai, diving deep into LLM and AI. Passionate about unleashing data's power to make real-world impacts, I'm all about exploring, innovating, and keeping things fun in the world of LLM. Excited to see where this adventure leads!
 
 </p>
 
